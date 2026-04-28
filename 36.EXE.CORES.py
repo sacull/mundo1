@@ -1,0 +1,1 @@
+print("teste \033[0:33:40m teste\033[m")
